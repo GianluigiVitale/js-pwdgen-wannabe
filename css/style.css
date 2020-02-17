@@ -3,3 +3,12 @@
     padding:0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.info-utente > p {
+    margin: 20px;
+    font-size: 20px;
+}
