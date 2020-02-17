@@ -6,4 +6,4 @@ document.getElementById('info-utente1').innerHTML = nome + cognome + colorePrefe
 var data = new Date();
 var annoCorrente = data.getFullYear();
 document.getElementById('info-utente2').innerHTML = nome + cognome + colorePreferito + annoCorrente;
-document.getElementById('info-utente3').innerHTML = nome + ' ' + cognome + ' ' + colorePreferito + ' ' + annoCorrente;
+document.getElementById('info-utente3').innerHTML = nome + ';' + cognome + ';' + colorePreferito + ';' + annoCorrente;
